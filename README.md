@@ -17,21 +17,21 @@ Contact: ajinkyakulkarni14@gmail.com
 # Monolingual Corpus :
 | Language	    | Sentences |Language	    | Sentences |Language	    | Sentences |
 |-------------------|:---------:|:-----------------:|:---------:|-------------------|:---------:|
-|Azerbaijan	        |   20852 	| Swahili 	|7204|	|Assamese| 	57|
-|Chinese, Yue       |  	20940 	|Swahili 	|7204|	|Assamese| 	57|
-|Latgalian          |  	9	|Swahili 	|7204|	|Assamese| 	57|
-|Chinese, Simplified| 	507085	|Swahili 	|7204|	|Assamese| 	57|
-|Algerian Arabic    | 	1716  	|Swahili 	|7204|	|Assamese| 	57|
-|Belarusian         |  	10965 	|Swahili 	|7204|	|Assamese| 	57|
-|Macedo             |  	3068  	|Swahili 	|7204|	|Assamese| 	57|
-|Croatian           |  	326967	|Swahili 	|7204|	|Assamese| 	57|
-|Malayalam          |  	7218  	|Swahili 	|7204|	|Assamese| 	57|
-|Turkish            |  	433023	|Swahili 	|7204|	|Assamese| 	57|
-|Bulgarian          |  	475860	|Swahili 	|7204|	|Assamese| 	57|
-|Tagalog            |  	2397  	|Swahili 	|7204|	|Assamese| 	57|
-|Nepali             |  	4350  	|Swahili 	|7204|	|Assamese| 	57|
-|Vietnamese         |  	349731	|Swahili 	|7204|	|Assamese| 	57|
-|Albanian 	    |   148541	|Swahili 	|7204|	|Assamese| 	57|
+|Azerbaijan	        |   20852 	| Swahili |7204|Assamese |57|
+|Chinese, Yue       |  	20940 	|Czech |272464|Khmer |614|
+|Latgalian          |  	9	|Silesian |91|Norwegian Nynorsk |3012|
+|Chinese, Simplified| 	507085	|Basque |12303|Occitan |54|
+|Algerian Arabic    | 	1716  	|Macedonian |69086|Hupa |3|
+|Belarusian         |  	10965 	|Montenegrin |4181|Danish |128916|
+|Macedo             |  	3068  	|Finnish |61604|Igbo |68|
+|Croatian           |  	326967	|Hungarian |398138|Asturian |232|
+|Malayalam          |  	7218  	|Punjabi |48|Serbian |359791|
+|Turkish            |  	433023	|Russian |609744|Irish |256|
+|Bulgarian          |  	475860	|Bislama |49|Kazakh |6993|
+|Tagalog            |  	2397  	|Afrikaans |2903|Filipino |7513|
+|Nepali             |  	4350  	|French |493026|Icelandic |4957|
+|Vietnamese         |  	349731	|German |471902|Mongolian |19737|
+|Albanian 	    |   148541	|Esperanto |18966|French (Canada) |68316|
 
 
 # Conditions of use
