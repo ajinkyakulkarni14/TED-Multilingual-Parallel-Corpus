@@ -15,22 +15,22 @@ Mr. Ajinkya kulkarni,
 Contact: ajinkyakulkarni14@gmail.com
 
 # Monolingual Corpus :
-
-Azerbaijani          	20852		  Swahili    	  7204			Assamese           	57
-Chinese, Yue         	20940			Czech      	  272464		Khmer 	            614
-Latgalian            	96			  Silesian  	  91			  Norwegian Nynorsk 	3012
-Chinese, Simplified 	507085		Basque     	  12303			Occitan 	          54
-Algerian Arabic      	1716			Macedonian 	  69086			Hupa 	              3
-Belarusian           	10965			Montenegrin   4181			Danish 	            128916
-Macedo               	3068			Finnish    	  61604			Igbo 	              68
-Croatian             	326967		Hungarian  	  398138		Asturian 	          232
-Malayalam            	7218			Punjabi    	  48			  Serbian 	          359791
-Turkish              	433023		Russian    	  609744		Irish 	            256
-Bulgarian            	475860		Bislama    	  49			  Kazakh 	            6993
-Tagalog              	2397			af Afrikaans  2903			Filipino 	          7513
-Nepali               	4350			French 	      493026		Icelandic 	        4957
-Vietnamese           	349731		German 	      471902		Mongolian 	        19737
-Albanian 	            148541		Esperanto 	  18966			French (Canada) 	  68316
+-------------------------------------------------------------------------------------------------------------
+|Azerbaijan	    |   20852 | Swahili    	  7204			Assamese           	57
+|Chinese, Yue       |  	20940 |	Czech      	  272464		Khmer 	            614
+|Latgalian          |  	96    |	Silesian  	  91			  Norwegian Nynorsk 	3012
+|Chinese, Simplified| 	507085|	Basque     	  12303			Occitan 	          54
+|Algerian Arabic    | 	1716  |	Macedonian 	  69086			Hupa 	              3
+|Belarusian         |  	10965 |	Montenegrin|   4181			Danish 	            128916
+|Macedo             |  	3068  |	Finnish    	  61604			Igbo 	              68
+|Croatian           |  	326967|	Hungarian  	  398138		Asturian 	          232
+|Malayalam          |  	7218  |	Punjabi    	  48			  Serbian 	          359791
+|Turkish            |  	433023|	Russian    	  609744		Irish 	            256
+|Bulgarian          |  	475860|	Bislama     | 	  49			  Kazakh 	            6993
+|Tagalog            |  	2397  |	af Afrikaans|  2903			Filipino 	          7513
+|Nepali             |  	4350  |	French 	      493026		Icelandic 	        4957
+|Vietnamese         |  	349731|	German 	      471902		Mongolian 	        19737
+|Albanian 	    |   148541|	Esperanto 	  18966			French (Canada) 	  68316
 									
 									
 Slovak 	175052			Georgian 	37013			Telugu 	4104
