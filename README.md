@@ -8,11 +8,11 @@ The goal of the extraction and processing was to generate sentence aligned text
 for statistical machine translation systems. All pre-processing is done automatically. 
 No manual corrections have been carried out.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Language      | Sentences     |
+| ------------- |:-------------:| 
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
 
 # Author
 
