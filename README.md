@@ -8,7 +8,11 @@ The goal of the extraction and processing was to generate sentence aligned text
 for statistical machine translation systems. All pre-processing is done automatically. 
 No manual corrections have been carried out.
 
-# Bilingual Corpus
+# Multilingual Parallel Corpus :
+
+
+
+# Bilingual Parallel Corpus :
 
 |Language 1| Language 2| Sentences|Language 1| Language 2| Sentences|
 |:---------:|:---------:|:-------:|:---------:|:---------:|:-------:|
