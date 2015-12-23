@@ -7,18 +7,25 @@ It includes Monolingual corpus, 12 languages for Bilingual parallel corpus over 
 The goal of the extraction and processing was to generate sentence aligned text 
 for statistical machine translation systems. All pre-processing is done automatically. 
 No manual corrections have been carried out.
+
 -----------------------------------------------------------------------------------------------------------------------------
+
 # Multilingual Parallel Corpus :
+
 -----------------------------------------------------------------------------------------------------------------------------
+
 12 languages aligned Parallel corpus data :
 It contains Parallel aligned sentences for 12 languages which encovers ar Arabic, zh-cn Chinese, Simplified, zh-tw Chinese, Traditional, nl Dutch, fr French, de German, he Hebrew, it Italian, ja Japanese, ko Korean, ru Russian, es Spanish.
 
 Sentences : 349049
+
 -----------------------------------------------------------------------------------------------------------------------------
+
 4 languages aligned parallel corpus data:
 It contains Parallel aligned sentences for 4 South Asian languages which encovers zh-cn Chinese, Simplified, zh-tw Chinese, Traditional, ja Japanese, ko Korean.
 
 Sentences : 389764
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 # Bilingual Parallel Corpus :
