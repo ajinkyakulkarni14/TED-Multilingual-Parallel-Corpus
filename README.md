@@ -1,9 +1,8 @@
 # TED-Parallel-Corpus
 
-TED parallel Corpora presents is growing collection of Bilingual parallel corpora, Multilingual
-parallel corpora and Monolingual corpora extracted from TED talks www.ted.com 
-collected together for research purposes. It includes 109 world languages for Monolingual
-corpus, 12 languages for Bilingual parallel corpus over 120 million aligned sentences
+TED parallel Corpora is growing collection of Bilingual parallel corpora, Multilingual
+parallel corpora and Monolingual corpora extracted from TED talks www.ted.com for 109 world language  
+It includes Monolingual corpus, 12 languages for Bilingual parallel corpus over 120 million aligned sentences
 , and 13 languages for Multilingual Parallel corpus with more than 600k sentences.
 The goal of the extraction and processing was to generate sentence aligned text 
 for statistical machine translation systems. All pre-processing is done automatically. 
@@ -14,6 +13,9 @@ No manual corrections have been carried out.
 
 Mr. Ajinkya kulkarni, 
 Contact: ajinkyakulkarni14@gmail.com
+
+# Monolingual Corpus :
+
 
 # Conditions of use
 
