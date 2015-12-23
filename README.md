@@ -15,23 +15,23 @@ Mr. Ajinkya kulkarni,
 Contact: ajinkyakulkarni14@gmail.com
 
 # Monolingual Corpus :
-| Language	    | Sentences |
-|-------------------|:---------:|
-|Azerbaijan	    |   20852 	| 
-|Chinese, Yue       |  	20940 	|
-|Latgalian          |  	9	|
-|Chinese, Simplified| 	507085	|
-|Algerian Arabic    | 	1716  	|
-|Belarusian         |  	10965 	|
-|Macedo             |  	3068  	|
-|Croatian           |  	326967	|
-|Malayalam          |  	7218  	|
-|Turkish            |  	433023	|
-|Bulgarian          |  	475860	|
-|Tagalog            |  	2397  	|
-|Nepali             |  	4350  	|
-|Vietnamese         |  	349731	|
-|Albanian 	    |   148541	|
+| Language	    | Sentences |Language	    | Sentences |Language	    | Sentences |
+|-------------------|:---------:|:-----------------:|:---------:|-------------------|:---------:|
+|Azerbaijan	        |   20852 	| Swahili 	|7204|	|Assamese| 	57|
+|Chinese, Yue       |  	20940 	|Swahili 	|7204|	|Assamese| 	57|
+|Latgalian          |  	9	|Swahili 	|7204|	|Assamese| 	57|
+|Chinese, Simplified| 	507085	|Swahili 	|7204|	|Assamese| 	57|
+|Algerian Arabic    | 	1716  	|Swahili 	|7204|	|Assamese| 	57|
+|Belarusian         |  	10965 	|Swahili 	|7204|	|Assamese| 	57|
+|Macedo             |  	3068  	|Swahili 	|7204|	|Assamese| 	57|
+|Croatian           |  	326967	|Swahili 	|7204|	|Assamese| 	57|
+|Malayalam          |  	7218  	|Swahili 	|7204|	|Assamese| 	57|
+|Turkish            |  	433023	|Swahili 	|7204|	|Assamese| 	57|
+|Bulgarian          |  	475860	|Swahili 	|7204|	|Assamese| 	57|
+|Tagalog            |  	2397  	|Swahili 	|7204|	|Assamese| 	57|
+|Nepali             |  	4350  	|Swahili 	|7204|	|Assamese| 	57|
+|Vietnamese         |  	349731	|Swahili 	|7204|	|Assamese| 	57|
+|Albanian 	    |   148541	|Swahili 	|7204|	|Assamese| 	57|
 
 
 # Conditions of use
