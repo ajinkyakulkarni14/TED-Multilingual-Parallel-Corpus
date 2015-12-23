@@ -1,0 +1,109 @@
+ af Afrikaans
+sq Albanian
+arq Algerian Arabic
+am Amharic
+ar Arabic
+hy Armenian
+as Assamese
+ast Asturian
+az Azerbaijani
+eu Basque
+be Belarusian
+bn Bengali
+bi Bislama
+bs Bosnian
+bg Bulgarian
+my Burmese
+ca Catalan
+ceb Cebuano
+zh-cn Chinese, Simplified
+zh-tw Chinese, Traditional
+zh Chinese, Yue
+ht Creole, Haitian
+hr Croatian
+cs Czech
+da Danish
+nl Dutch
+en English
+eo Esperanto
+et Estonian
+fil Filipino
+fi Finnish
+fr French
+fr-ca French (Canada)
+gl Galician
+ka Georgian
+de German
+el Greek
+gu Gujarati
+cnh Hakha Chin
+ha Hausa
+he Hebrew
+hi Hindi
+hu Hungarian
+hup Hupa
+is Icelandic
+ig Igbo
+id Indonesian
+inh Ingush
+ga Irish
+it Italian
+ja Japanese
+kn Kannada
+kk Kazakh
+km Khmer
+tlh Klingon
+ko Korean
+ku Kurdish
+ky Kyrgyz
+lo Lao
+ltg Latgalian
+la Latin
+lv Latvian
+lt Lithuanian
+lb Luxembourgish
+rup Macedo
+mk Macedonian
+mg Malagasy
+ms Malay
+ml Malayalam
+mt Maltese
+mr Marathi
+mn Mongolian
+srp Montenegrin
+ne Nepali
+nb Norwegian Bokmal
+nn Norwegian Nynorsk
+oc Occitan
+ps Pashto
+fa Persian
+pl Polish
+pt Portuguese
+pt-br Portuguese, Brazilian
+pa Punjabi
+ro Romanian
+ru Russian
+sr Serbian
+sh Serbo-Croatian
+szl Silesian
+si Sinhala
+sk Slovak
+sl Slovenian
+so Somali
+es Spanish
+sw Swahili
+sv Swedish
+art-x-bork Swedish Chef
+tl Tagalog
+tg Tajik
+ta Tamil
+tt Tatar
+te Telugu
+th Thai
+bo Tibetan
+tr Turkish
+uk Ukrainian
+ur Urdu
+ug Uyghur
+uz Uzbek
+vi Vietnamese
