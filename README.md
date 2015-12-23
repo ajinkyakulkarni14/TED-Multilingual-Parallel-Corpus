@@ -47,6 +47,12 @@ Contact: ajinkyakulkarni14@gmail.com
 |Estonian |33236|Lithuanian |116956|Sinhala |1602|
 |Creole, Haitian |417|Malagasy |729|Persian |362411|
 |Uzbek |6201|Bengali |17107|Hebrew |535665|
+|Pashto |491|Armenian |69923|
+|Spanish |521162|Luxembourgish |217|
+|Thai |237086|Portuguese, Brazilian |476576|
+|Burmese |41266|Urdu |19861|
+|Portuguese |250967|Chinese, Traditional |483199|
+|Norwegian Bokmal |47441|Malay |23502|
 
 
 # Conditions of use
