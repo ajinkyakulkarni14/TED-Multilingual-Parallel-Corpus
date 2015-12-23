@@ -7,10 +7,19 @@ It includes Monolingual corpus, 12 languages for Bilingual parallel corpus over 
 The goal of the extraction and processing was to generate sentence aligned text 
 for statistical machine translation systems. All pre-processing is done automatically. 
 No manual corrections have been carried out.
-
+-----------------------------------------------------------------------------------------------------------------------------
 # Multilingual Parallel Corpus :
+-----------------------------------------------------------------------------------------------------------------------------
+12 languages aligned Parallel corpus data :
+It contains Parallel aligned sentences for 12 languages which encovers ar Arabic, zh-cn Chinese, Simplified, zh-tw Chinese, Traditional, nl Dutch, fr French, de German, he Hebrew, it Italian, ja Japanese, ko Korean, ru Russian, es Spanish.
 
+Sentences : 349049
+-----------------------------------------------------------------------------------------------------------------------------
+4 languages aligned parallel corpus data:
+It contains Parallel aligned sentences for 4 South Asian languages which encovers zh-cn Chinese, Simplified, zh-tw Chinese, Traditional, ja Japanese, ko Korean.
 
+Sentences : 389764
+-----------------------------------------------------------------------------------------------------------------------------
 
 # Bilingual Parallel Corpus :
 
@@ -65,6 +74,7 @@ No manual corrections have been carried out.
 | Hebrew | Korean | 485919 | Dutch | French | 409715 |
 | French | Korean | 462616 | Italian | Arabic | 486628 |
 
+-----------------------------------------------------------------------------------------------------------------------------
 
 # Monolingual Corpus :
 | Language	    | Sentences |Language	    | Sentences |Language	    | Sentences |
@@ -106,12 +116,14 @@ No manual corrections have been carried out.
 |Portuguese |250967|Chinese, Traditional |483199|
 |Norwegian Bokmal |47441|Malay |23502|
 
+-----------------------------------------------------------------------------------------------------------------------------
 
 # Author
 
 Mr. Ajinkya kulkarni, 
 Contact: ajinkyakulkarni14@gmail.com
 
+-----------------------------------------------------------------------------------------------------------------------------
 
 # Conditions of use
 
@@ -119,6 +131,8 @@ The TED-Multilingual-Parallel-Corpus contain text from publicly accessible sourc
 All data have been processed automatically so that it is not possible to reconstruct 
 the original source texts. They are made available on the condition that they may be used for scientific purposes only 
 and not passed on to third parties. Any use of the data must be duly documented and referenced.
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 # Disclaimer
 
@@ -131,5 +145,7 @@ For each word, the list of words that significantly co-occur with that word are
 computed on the basis of the available text and neither express a general fact of 
 language nor the particular view of author for Natural Language Processing.
 Please let us know if you find problems with the data or if you want the data for other language pairs. 
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 
